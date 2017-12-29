@@ -1,8 +1,8 @@
-Ô¤ÀÀ  
+é¢„è§ˆ 
 1.cnpm install 
 2.cnpm install vue-router --save-dev     
 
 
-¶à¸örouter-view
+å¤šä¸ªrouter-view
 
                     
