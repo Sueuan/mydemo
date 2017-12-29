@@ -1,0 +1,3 @@
+Ô¤ÀÀ  
+1.cnpm install 
+2.cnpm install vue-router --save-dev                         
