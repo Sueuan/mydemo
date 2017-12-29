@@ -1,8 +1,0 @@
-预览 
-1.cnpm install 
-2.cnpm install vue-router --save-dev     
-
-
-多个router-view
-
-                    
