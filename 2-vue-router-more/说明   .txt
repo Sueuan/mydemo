@@ -3,6 +3,6 @@
 2.cnpm install vue-router --save-dev     
 
 
-小例子为多个router-view
+多个router-view
 
                     
